@@ -59,25 +59,26 @@
                     </div>
                 </div>
             </div>
-                <h2 style="padding: 10px 0px 70px 0px;">Parabéns, "NOME_DO_CLIENTE" !!! </h2>
-                <p class="lead">Você cumpriu a <b>1ª etapa</b> para garantir seu prêmio de <b>30 dias de Amazon Prime totalmente grátis</b></p>
-                <p class="lead">Agora basta aguardar o lançamento oficial da conta digital do Digital Eazy <br/>para finalizar a abertura da sua conta.</p>
-                <p class="lead">Após finalizar a abertura da conta, faça um depósito mínimo de R$50 e pronto, você vai receber o saldo de 1 mensalidade para pagar o Amazon Prime direto na sua conta.</p>
-                <p class="lead">A recarga é uma cortesia do Digital Eazy e não será descontada do seu saldo.</p>
+                <h2 style="padding: 10px 0px 70px 0px;">Parabéns!!! </h2>
+                <p class="lead">Você concluiu a 1ª etapa para garantir seu prêmio de R$ 10,00 para gastar como quiser no Google 🎁</b></p>
+                <p class="lead">Você pode usar seu bônus para jogos, alugar filmes no Youtube, comprar livros e muito mais.</p>
+                <p class="lead">Agora basta aguardar o lançamento oficial da conta digital do Digital Eazy para finalizar a abertura da sua conta.</p>
+                <p class="lead">Após finalizar a abertura da conta, faça um depósito mínimo de R$ 50 e pronto. Os primeiros 500 usuários que fizerem o depósito ganham o código promocional com R$ 10,00 em bônus para ativar no site da Google e gastar com o que quiser.</p>
+                <p class="lead">Vale informar que a recarga é uma cortesia do Digital Eazy e não será descontada do seu saldo.</p>
                 <p class="lead">Enquanto isso, aproveite e espalhe a promoção para seus amigos e amigas compartilhando o link abaixo:</p>
+                
             </div>
 
             <div class="row">
                 <div class="container">
-                    <div class="py-5 text-center">
-                        <h2 style="padding: 30px 0px 70px 0px;">digitaleazy.com.br/amazonprime_gratis </h2>
+                    <div class="py-5 text-center"><a href="oferta.digitaleazy.com.br/bonus-google"><button class="btn btn-primary" style="width: 450px; background-color: #000; border-color: #000;">Meu Bônus</button></a></h2>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="container">
                     <div class="py-5 text-center">
-                        <p>Não vai ser legal só você assistir os melhores filmes de graça 😬</p>
+                        <p>Não vai ser legal só você ganhar esse bônus na faixa 😬</p>
                         <ul class="list-inline">
                             <li class="list-inline-item"><a href="#" style="color: #000;">Privacidade</a></li>
                             <li class="list-inline-item"><a href="#" style="color: #000;">Termos</a></li>
