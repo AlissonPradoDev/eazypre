@@ -71,7 +71,7 @@
 
             <div class="row">
                 <div class="container">
-                    <div class="py-5 text-center"><a href="oferta.digitaleazy.com.br/bonus-google"><button class="btn btn-primary" style="width: 450px; background-color: #000; border-color: #000;">Meu Bônus</button></a></h2>
+                    <div class="py-5 text-center"><a href="http://oferta.digitaleazy.com.br/bonus-google"><button class="btn btn-primary" style="width: 450px; background-color: #000; border-color: #000;">Meu Bônus</button></a></h2>
                     </div>
                 </div>
             </div>
